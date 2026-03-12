@@ -14,7 +14,7 @@ Focus Pad helps users: to plan their day set reminders make notes and lots more
 - Kotlin (Android)
 
 ## 📸 App Preview
-![App Screenshot](images/app-preview.png)
+<img width="4096" height="2304" alt="Untitled design (3)" src="https://github.com/user-attachments/assets/b965afd3-b5fe-4f96-90ea-da69ee1ffc4e" />
 
 ## 🚧 Status
 Currently under development.
